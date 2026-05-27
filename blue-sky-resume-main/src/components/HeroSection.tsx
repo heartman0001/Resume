@@ -28,13 +28,12 @@ const HeroSection = () => {
             Jadesadakorn  Sermsrap
           </h1>
           <h2 className="text-2xl md:text-3xl text-blue-600 mb-6 font-medium">
-            Front-End Developer
+            Full-Stack Developer
           </h2>
           
           {/* Description */}
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            นักศึกษาวิศวกรรมคอมพิวเตอร์ที่มีความหลงใหลในการพัฒนาเว็บไซต์และแอปพลิเคชัน
-            พร้อมเรียนรู้และสร้างสรรค์สิ่งใหม่ ๆ อยู่เสมอ
+            Full-Stack Developer รุ่นใหม่ที่มีประสบการณ์จริงจากการพัฒนา Web Application และระบบจัดการข้อมูลในสถาบันการศึกษา มีความเชี่ยวชาญในการสร้างสรรค์หน้าบ้านด้วย React, TypeScript และ Tailwind CSS ควบคู่ไปกับการออกแบบสถาบันหลังบ้านและฐานข้อมูลด้วย PHP, SQL และ Cloud Database (Supabase/MongoDB) มีประสบการณ์พัฒนา LINE Front-end Framework (LIFF) มุ่งมั่นที่จะนำทักษะการคิดเชิงระบบทางวิศวกรรมคอมพิวเตอร์มาร่วมพัฒนาซอฟต์แวร์ที่มีประสิทธิภาพและตอบโจทย์ธุรกิจให้กับองค์กร
           </p>
 
           {/* CTA Buttons */}

@@ -11,16 +11,12 @@ const AboutSection = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-gray-700 leading-relaxed">
-              สวัสดีครับ! ผมเป็นนักศึกษาวิศวกรรมคอมพิวเตอร์จากมหาวิทยาลัยพะเยา 
-              ผมมีความหลงใหลในการพัฒนาเว็บไซต์และแอปพลิเคชัน 
-              โดยเฉพาะในด้าน Front-End ที่เน้นการออกแบบ UI ให้สวยงามและใช้งานง่าย
-            </p>
+Full-Stack Developer รุ่นใหม่ที่มีประสบการณ์จริงจากการพัฒนา Web Application และระบบจัดการข้อมูลในสถาบันการศึกษา มีความเชี่ยวชาญในการสร้างสรรค์หน้าบ้านด้วย React, TypeScript และ Tailwind CSS ควบคู่ไปกับการออกแบบสถาบันหลังบ้านและฐานข้อมูลด้วย PHP, SQL และ Cloud Database (Supabase/MongoDB) มีประสบการณ์พัฒนา LINE Front-end Framework (LIFF) มุ่งมั่นที่จะนำทักษะการคิดเชิงระบบทางวิศวกรรมคอมพิวเตอร์มาร่วมพัฒนาซอฟต์แวร์ที่มีประสิทธิภาพและตอบโจทย์ธุรกิจให้กับองค์กร            </p>
             
             <p className="text-lg text-gray-700 leading-relaxed">
-              ผมมีประสบการณ์ในการพัฒนาโปรเจกต์จริง 
-              เช่น แอป Team-UP สำหรับนัดเพื่อนเตะบอล และเว็บไซต์จองโต๊ะร้านชาบู ซึ่งช่วยให้ผมได้ฝึกฝนทักษะทั้งด้านการออกแบบ UI/UX และการเขียนโค้ดด้วย HTML, CSS, JavaScript, Flutter, Dart และภาษาอื่น ๆ
-              ในอนาคต ผมตั้งเป้าที่จะเป็น Front-End Developer
-              ที่มีความเชี่ยวชาญ สามารถสร้างสรรค์เว็บไซต์และแอปพลิเคชันที่ตอบโจทย์ผู้ใช้ได้อย่างแท้จริง ทั้งในด้านความสวยงาม ความเร็ว และประสิทธิภาพ
+              ผมมีความสามารถในการสร้างสรรค์ระบบตั้งแต่โครงสร้างหลังบ้าน (Back-End) การออกแบบฐานข้อมูลที่มีประสิทธิภาพ ไปจนถึงการส่งมอบหน้าบ้าน (Front-End) ที่ตอบโจทย์ผู้ใช้งานด้วย UI/UX ที่สวยงามและลื่นไหล
+
+จากประสบการณ์ที่ผ่านมา ผมได้พัฒนาโปรเจกต์ที่ผสมผสานเทคโนโลยีสมัยใหม่ เช่น การพัฒนาระบบร่วมกับ LINE Official Account (LINE OA) และ LIFF เพื่อตอบโจทย์ธุรกิจ รวมถึงการออกแบบระบบสนับสนุนการตัดสินใจ (Decision Support System) ที่ต้องจัดการข้อมูลและประมวลผลอย่างแม่นยำ ทำให้ผมเข้าใจภาพรวมของการสร้างสรรค์ซอฟต์แวร์ที่ใช้งานได้จริงตั้งแต่ต้นจนจบกระบวนการครับ
             </p>
 
             <div className="grid grid-cols-2 gap-6 pt-6">
@@ -29,7 +25,6 @@ const AboutSection = () => {
                 <ul className="text-gray-700 space-y-1">
                   <li>• Web Development</li>
                   <li>• Mobile Development</li>
-                  <li>• UI/UX Design</li>
                 </ul>
               </div>
               <div>
@@ -49,11 +44,11 @@ const AboutSection = () => {
               <div className="space-y-4">
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-white rounded-full mr-4"></div>
-                  <span>นักศึกษาปี 3 วิศวกรรมคอมพิวเตอร์</span>
+                  <span>วิศวกรรมคอมพิวเตอร์</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-white rounded-full mr-4"></div>
-                  <span>มีประสบการณ์ทำโปรเจกต์ 2+ โปรเจกต์</span>
+                  <span>มีประสบการณ์ทำโปรเจกต์ 10+ โปรเจกต์</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-white rounded-full mr-4"></div>

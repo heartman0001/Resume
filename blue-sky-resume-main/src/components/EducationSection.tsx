@@ -8,7 +8,7 @@ const EducationSection = () => {
       major: "วิศวกรรมคอมพิวเตอร์",
       school: "มหาวิทยาลัยพะเยา",
       period: "2022 - 2025",
-      gpa: "2.73",
+      gpa: "2.77",
       description: "เรียนรู้เกี่ยวกับการพัฒนาซอฟต์แวร์ ระบบฐานข้อมูล และเทคโนโลยีสารสนเทศ",
       current: true
     },
@@ -94,9 +94,9 @@ const EducationSection = () => {
         <div className="mt-16 grid md:grid-cols-3 gap-8">
           <div className="text-center">
             <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-              <span className="text-2xl font-bold text-blue-600">2.73</span>
+              <span className="text-2xl font-bold text-blue-600">2.77</span>
             </div>
-            <h3 className="font-bold text-gray-900 mb-2">เกรดเฉลี่ยปัจจุบัน</h3>
+            <h3 className="font-bold text-gray-900 mb-2">เกรดเฉลี่ย</h3>
             <p className="text-gray-600">วิศวกรรมคอมพิวเตอร์</p>
           </div>
           
@@ -110,10 +110,10 @@ const EducationSection = () => {
           
           <div className="text-center">
             <div className="w-16 h-16 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
-              <span className="text-2xl font-bold text-purple-600">2+</span>
+              <span className="text-2xl font-bold text-purple-600">10+</span>
             </div>
             <h3 className="font-bold text-gray-900 mb-2">โปรเจกต์</h3>
-            <p className="text-gray-600">ที่ทำในมหาวิทยาลัย</p>
+            <p className="text-gray-600"></p>
           </div>
         </div>
       </div>

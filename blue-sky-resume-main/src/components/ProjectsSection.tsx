@@ -13,10 +13,18 @@ const ProjectsSection = () => {
       codeUrl: "#"
     },
     {
-      title: "เรือดำน้ำหุ่นยนต์",
-      description: "โปรเจกต์หุ่นยนต์เรือดำน้ำที่สามารถควบคุมผ่านแอปพลิเคชันมือถือ",
-      image: "src/image/Ocean.png",
-      tags: ["Arduino", "C", "IoT", "Robotics"],
+      title: "ระบบบริหารจัดการผลงานวิชาการ",
+      description: "เป็นระบบสำหรับจัดการและติดตามผลงานวิชาการของนักศึกษา",
+      image: "src/image/APMS.png",
+      tags: ["React", "Tailwind CSS", "TypeScript", "Web App"],
+      liveUrl: "#",
+      codeUrl: "#"
+    },
+    {
+      title: "ระบบเบิงเงินค่าเดินทางผ่านไลน์ OA",
+      description: "เป็นระบบสำหรับเบิงเงินค่าเดินทางผ่านไลน์ OA โดยใช้ LIFF และฐานข้อมูล MySQL",
+      image: "src/image/DDAS.png",
+      tags: ["PHP", "CSS", "JavaScript", "Web App"],
       liveUrl: "#",
       codeUrl: "#"
     },
