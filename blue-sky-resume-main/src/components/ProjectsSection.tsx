@@ -1,13 +1,17 @@
 
 import { ExternalLink, Code } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import teamUpImage from "@/image/Teams.png";
+import apmsImage from "@/image/APMS.png";
+import ddasImage from "@/image/DDAS.png";
+import shabuImage from "@/image/Shabu.png";
 
 const ProjectsSection = () => {
   const projects = [
     {
       title: "Team-UP",
       description: "แอปพลิเคชันสำหรับการจัดการทีมและโปรเจกต์ พัฒนาด้วย Flutter และ Firebase",
-      image: "src/image/Teams.png",
+      image: teamUpImage,
       tags: ["Flutter", "MongoDB", "Dart", "Moblie App","Android Studio"],
       liveUrl: "#",
       codeUrl: "#"
@@ -15,7 +19,7 @@ const ProjectsSection = () => {
     {
       title: "ระบบบริหารจัดการผลงานวิชาการ",
       description: "เป็นระบบสำหรับจัดการและติดตามผลงานวิชาการของนักศึกษา",
-      image: "src/image/APMS.png",
+      image: apmsImage,
       tags: ["React", "Tailwind CSS", "TypeScript", "Web App"],
       liveUrl: "#",
       codeUrl: "#"
@@ -23,7 +27,7 @@ const ProjectsSection = () => {
     {
       title: "ระบบเบิงเงินค่าเดินทางผ่านไลน์ OA",
       description: "เป็นระบบสำหรับเบิงเงินค่าเดินทางผ่านไลน์ OA โดยใช้ LIFF และฐานข้อมูล MySQL",
-      image: "src/image/DDAS.png",
+      image: ddasImage,
       tags: ["PHP", "CSS", "JavaScript", "Web App"],
       liveUrl: "#",
       codeUrl: "#"
@@ -31,7 +35,7 @@ const ProjectsSection = () => {
     {
       title: "เว็บไซต์จองโต๊ะร้านชาบู",
       description: "เว็บแอปพลิเคชันสำหรับจองโต๊ะร้านอาหาร พร้อมระบบจัดการคิวออนไลน์",
-      image: "src/image/Shabu.png",
+      image: shabuImage,
       tags: ["React", "Node.js", "MySQL", "HTML", "CSS", "JavaScript","Web App"],
       liveUrl: "#",
       codeUrl: "#"

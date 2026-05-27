@@ -1,6 +1,7 @@
 
 import { Download, ChevronDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import profileImage from "@/image/45342.jpg";
 
 const HeroSection = () => {
   const scrollToNext = () => {
@@ -16,11 +17,11 @@ const HeroSection = () => {
         <div className="animate-fade-in">
           {/* Profile Image */}
           <div className="mb-8">
-              <img
-                src="src/image/45342.jpg"
-                 className="w-auto h-48 mx-auto rounded-full bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center text-white text-6xl font-bold shadow-2xl"
-                >
-              </img>
+            <img
+              src={profileImage}
+              alt="Jadesadakorn Sermsrap profile"
+              className="w-auto h-48 mx-auto rounded-full bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center text-white text-6xl font-bold shadow-2xl"
+            />
           </div>
 
           {/* Name and Title */}
