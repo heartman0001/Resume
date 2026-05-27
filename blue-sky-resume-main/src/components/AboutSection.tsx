@@ -11,13 +11,20 @@ const AboutSection = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-gray-700 leading-relaxed">
-Full-Stack Developer รุ่นใหม่ที่มีประสบการณ์จริงจากการพัฒนา Web Application และระบบจัดการข้อมูลในสถาบันการศึกษา มีความเชี่ยวชาญในการสร้างสรรค์หน้าบ้านด้วย React, TypeScript และ Tailwind CSS ควบคู่ไปกับการออกแบบสถาบันหลังบ้านและฐานข้อมูลด้วย PHP, SQL และ Cloud Database (Supabase/MongoDB) มีประสบการณ์พัฒนา LINE Front-end Framework (LIFF) มุ่งมั่นที่จะนำทักษะการคิดเชิงระบบทางวิศวกรรมคอมพิวเตอร์มาร่วมพัฒนาซอฟต์แวร์ที่มีประสิทธิภาพและตอบโจทย์ธุรกิจให้กับองค์กร            </p>
+              สวัสดีครับ! ผมจบวิศวกรรมคอมพิวเตอร์ ม.พะเยา ปัจจุบันพร้อมลุยงานในตำแหน่ง Full-Stack Developer เต็มตัวครับ
+            </p>
             
             <p className="text-lg text-gray-700 leading-relaxed">
-              ผมมีความสามารถในการสร้างสรรค์ระบบตั้งแต่โครงสร้างหลังบ้าน (Back-End) การออกแบบฐานข้อมูลที่มีประสิทธิภาพ ไปจนถึงการส่งมอบหน้าบ้าน (Front-End) ที่ตอบโจทย์ผู้ใช้งานด้วย UI/UX ที่สวยงามและลื่นไหล
-
-จากประสบการณ์ที่ผ่านมา ผมได้พัฒนาโปรเจกต์ที่ผสมผสานเทคโนโลยีสมัยใหม่ เช่น การพัฒนาระบบร่วมกับ LINE Official Account (LINE OA) และ LIFF เพื่อตอบโจทย์ธุรกิจ รวมถึงการออกแบบระบบสนับสนุนการตัดสินใจ (Decision Support System) ที่ต้องจัดการข้อมูลและประมวลผลอย่างแม่นยำ ทำให้ผมเข้าใจภาพรวมของการสร้างสรรค์ซอฟต์แวร์ที่ใช้งานได้จริงตั้งแต่ต้นจนจบกระบวนการครับ
+              Front-End: ถนัดเขียน React, TypeScript และจัดหน้าด้วย Tailwind CSS เน้นสร้าง UI ที่คลีน สวยงาม และลื่นไหล
             </p>
+            <p className="text-lg text-gray-700 leading-relaxed">
+              Back-End & Database: ออกแบบสถาปัตยกรรมและจัดการฐานข้อมูลด้วย TypeScript, PHP, SQL และ Cloud DB
+            </p>
+            <p className="text-lg text-gray-700 leading-relaxed">
+              Experience: มีประสบการณ์ทำโปรเจกต์ระบบจัดการข้อมูลและแอปพลิเคชันผ่าน LINE Front-end Framework (LIFF) ที่ใช้งานได้จริง
+              ผมพร้อมนำทักษะการแก้ไขปัญหาเชิงเทคนิคและการคิดเชิงระบบ มาร่วมสร้าง Solution ที่ตอบโจทย์ธุรกิจและเติบโตไปพร้อมกับทีมพัฒนาซอฟต์แวร์ครับ
+            </p>
+              
 
             <div className="grid grid-cols-2 gap-6 pt-6">
               <div>
@@ -44,19 +51,23 @@ Full-Stack Developer รุ่นใหม่ที่มีประสบก�
               <div className="space-y-4">
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-white rounded-full mr-4"></div>
-                  <span>วิศวกรรมคอมพิวเตอร์</span>
+                  <span>Education: B.Eng. in Computer Engineering, University of Phayao</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-white rounded-full mr-4"></div>
-                  <span>มีประสบการณ์ทำโปรเจกต์ 10+ โปรเจกต์</span>
+                  <span>Role: Full-Stack Developer</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-white rounded-full mr-4"></div>
-                  <span>ชอบเรียนรู้เทคโนโลยีใหม่</span>
+                  <span>Front-End: React | TypeScript | Tailwind CSS | Vite</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-white rounded-full mr-4"></div>
-                  <span>มุ่งเน้นการพัฒนา User Interface</span>
+                  <span>Back-End: TypeScript | Node.js | Express | PHP | SQL</span>
+                </div>
+                <div className="flex items-center">
+                  <div className="w-3 h-3 bg-white rounded-full mr-4"></div>
+                  <span>Specialties: LINE OA & LIFF Development | Responsive UI/UX</span>
                 </div>
               </div>
             </div>

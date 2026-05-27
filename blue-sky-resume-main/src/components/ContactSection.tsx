@@ -73,7 +73,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <p className="font-medium text-gray-900">ที่อยู่</p>
-                    <p className="text-gray-600">พะเยา, ประเทศไทย</p>
+                    <p className="text-gray-600">กรุงเทพฯ, ประเทศไทย</p>
                   </div>
                 </div>
               </div>

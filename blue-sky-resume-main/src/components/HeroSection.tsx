@@ -33,7 +33,10 @@ const HeroSection = () => {
           
           {/* Description */}
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            Full-Stack Developer รุ่นใหม่ที่มีประสบการณ์จริงจากการพัฒนา Web Application และระบบจัดการข้อมูลในสถาบันการศึกษา มีความเชี่ยวชาญในการสร้างสรรค์หน้าบ้านด้วย React, TypeScript และ Tailwind CSS ควบคู่ไปกับการออกแบบสถาบันหลังบ้านและฐานข้อมูลด้วย PHP, SQL และ Cloud Database (Supabase/MongoDB) มีประสบการณ์พัฒนา LINE Front-end Framework (LIFF) มุ่งมั่นที่จะนำทักษะการคิดเชิงระบบทางวิศวกรรมคอมพิวเตอร์มาร่วมพัฒนาซอฟต์แวร์ที่มีประสิทธิภาพและตอบโจทย์ธุรกิจให้กับองค์กร
+            ผมเป็น Full-Stack Developer สายวิศวะคอมฯ ที่ชอบทำระบบแบบครบวงจรครับ ถนัดสร้างหน้าบ้านด้วย 
+            React & Tailwind และจัดการระบบหลังบ้านรวมถึงฐานข้อมูลด้วย TypeScript, PHP, SQL และ Cloud DB 
+            (Supabase/MongoDB) นอกจากนี้ยังมีประสบการณ์ทำระบบ LINE OA & LIFF มาด้วย พร้อมนำ Logic
+            ทางวิศวกรรมมาลุยงานและร่วมสร้างซอฟต์แวร์เจ๋งๆ กับทีมครับ          
           </p>
 
           {/* CTA Buttons */}
